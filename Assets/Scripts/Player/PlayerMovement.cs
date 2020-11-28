@@ -37,6 +37,7 @@ public class PlayerMovement : MonoBehaviour
         movement.Normalize();
     }
 
+
     private void Movement()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
