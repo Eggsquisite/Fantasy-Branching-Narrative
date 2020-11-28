@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
 
     public float moveSpeed;
+
+    private bool canMove;
     private Vector2 movement;
 
     // Start is called before the first frame update
@@ -19,7 +21,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        MovementInput();
+        if (canMove)
+            MovementInput();
     }
 
     void FixedUpdate()
@@ -37,5 +40,15 @@ public class PlayerMovement : MonoBehaviour
     private void Movement()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    public void StopMovement()
+    {
+        canMove = false;
+    }
+
+    public void ResumeMovement()
+    {
+        canMove = true;
     }
 }
