@@ -52,9 +52,4 @@ public class PlayerMovement : MonoBehaviour
     {
         canMove = true;
     }
-
-    public void SetAttitude(int att)
-    {
-        Debug.Log(att);
-    }
 }

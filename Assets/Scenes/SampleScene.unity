@@ -244,6 +244,7 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
+  - component: {fileID: 519420030}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -259,6 +260,21 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
+--- !u!114 &519420030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3354cdf7e7f7cbc449b212940c561f1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentTarget: {fileID: 918337629}
+  smoothTime: 0.3
+  offset: {x: 0, y: 0, z: -10}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -7706,9 +7722,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -21.571426
-    y: 4.57803
-    width: 76.13636
+    x: -13.758928
+    y: 20.203024
+    width: 74.999985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7735,11 +7751,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -79.58984, y: 349.0645}
+  scrollPos: {x: 68.342606, y: 469.25613}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.8800001
+  zoom: 0.64000034
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -7748,7 +7764,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 750590615}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 750590618}
   variables:
   - {fileID: 750590610}
   - {fileID: 750590617}
@@ -7974,9 +7991,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 429.5898
-    y: 38.435486
-    width: 154.54544
+    x: 420.2148
+    y: 19.685486
+    width: 148.43744
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8069,7 +8086,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 179.16765
     y: -13.363609
-    width: 152.2727
+    width: 148.43744
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8099,7 +8116,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 185.7263
     y: 66.57144
-    width: 146.5909
+    width: 142.18745
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8159,10 +8176,10 @@ MonoBehaviour:
   indentLevel: 0
   description: 
   targetObject: {fileID: 918337627}
-  targetComponentAssemblyName: PlayerMovement, Assembly-CSharp, Version=0.0.0.0,
-    Culture=neutral, PublicKeyToken=null
+  targetComponentAssemblyName: PlayerStats, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
   targetComponentFullname: UnityEngine.Component[]
-  targetComponentText: PlayerMovement
+  targetComponentText: PlayerStats
   targetMethod: SetAttitude
   targetMethodText: 'SetAttitude (Int32): Void'
   methodParameters:
@@ -8182,7 +8199,7 @@ MonoBehaviour:
       textureValue: {fileID: 0}
       vector2Value: {x: 0, y: 0}
       vector3Value: {x: 0, y: 0, z: 0}
-    variableKey: Att
+    variableKey: IncreaseBy1
   saveReturnValue: 0
   returnValueVariableKey: 
   returnValueType: System.Void
@@ -8231,10 +8248,10 @@ MonoBehaviour:
   indentLevel: 0
   description: 
   targetObject: {fileID: 918337627}
-  targetComponentAssemblyName: PlayerMovement, Assembly-CSharp, Version=0.0.0.0,
-    Culture=neutral, PublicKeyToken=null
+  targetComponentAssemblyName: PlayerStats, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
   targetComponentFullname: UnityEngine.Component[]
-  targetComponentText: PlayerMovement
+  targetComponentText: PlayerStats
   targetMethod: SetAttitude
   targetMethodText: 'SetAttitude (Int32): Void'
   methodParameters:
@@ -8254,7 +8271,7 @@ MonoBehaviour:
       textureValue: {fileID: 0}
       vector2Value: {x: 0, y: 0}
       vector3Value: {x: 0, y: 0, z: 0}
-    variableKey: Att
+    variableKey: DecreaseBy1
   saveReturnValue: 0
   returnValueVariableKey: 
   returnValueType: System.Void
@@ -12390,8 +12407,9 @@ GameObject:
   - component: {fileID: 918337628}
   - component: {fileID: 918337631}
   - component: {fileID: 918337630}
-  - component: {fileID: 918337632}
   - component: {fileID: 918337633}
+  - component: {fileID: 918337632}
+  - component: {fileID: 918337634}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -12543,6 +12561,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &918337634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918337627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c68ea50a69e1f42b3d91c024079885, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attitudeToParty: 5
 --- !u!1 &947943820
 GameObject:
   m_ObjectHideFlags: 0
@@ -13245,6 +13276,7 @@ MonoBehaviour:
   soundEffect: {fileID: 0}
   portraits:
   - {fileID: 2585874796098763323, guid: b4600464d74325346b5d140059841a6d, type: 3}
+  - {fileID: -5567148997713595027, guid: b4600464d74325346b5d140059841a6d, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 947943821}
   description: It's the main boy
