@@ -7,10 +7,13 @@ public class TimelineManager : MonoBehaviour
 {
     private PlayableDirector pd;
 
+    PlayableAsset newTimelineAsset;
+
     // Start is called before the first frame update
     void Start()
     {
         pd = GetComponent<PlayableDirector>();
+        //pd.playableAsset = newTimelineAsset;
         
     }
 
