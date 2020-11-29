@@ -169,6 +169,8 @@ GameObject:
   - component: {fileID: 88873949}
   - component: {fileID: 88873948}
   - component: {fileID: 88873947}
+  - component: {fileID: 88873954}
+  - component: {fileID: 88873955}
   m_Layer: 0
   m_Name: Cadet
   m_TagString: Untagged
@@ -201,6 +203,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2
+  canMove: 0
 --- !u!95 &88873949
 Animator:
   serializedVersion: 3
@@ -211,7 +214,7 @@ Animator:
   m_GameObject: {fileID: 88873946}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0d4ae053f1dd14a4aad087faa1c42435, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -230,10 +233,10 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.025488257, y: -0.19456172}
+  m_Offset: {x: -0.014025986, y: -0.114326715}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -244,7 +247,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.35541272, y: 0.47696638}
+  m_Size: {x: 0.88267505, y: 0.9125314}
   m_EdgeRadius: 0
 --- !u!50 &88873951
 Rigidbody2D:
@@ -264,7 +267,7 @@ Rigidbody2D:
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
 --- !u!212 &88873952
@@ -332,6 +335,39 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &88873954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88873946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: Cadet
+  nameColor: {r: 0.52330863, g: 0.5283019, b: 0.44108224, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: 4309302054512044655, guid: 53124044664bad1419f420a1be2cea83, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: Cadet
+--- !u!114 &88873955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88873946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0acc8e4f05193e04db3c35c0dfb77130, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialog: {fileID: 750590604}
 --- !u!1 &140219724
 GameObject:
   m_ObjectHideFlags: 0
@@ -8791,7 +8827,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &789001338
 Transform:
   m_ObjectHideFlags: 0
@@ -12686,7 +12722,7 @@ Rigidbody2D:
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
 --- !u!114 &918337632
@@ -12702,6 +12738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2
+  canMove: 1
 --- !u!95 &918337633
 Animator:
   serializedVersion: 3

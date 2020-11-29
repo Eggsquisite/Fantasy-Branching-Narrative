@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float moveSpeed;
 
-    private bool canMove;
+    public bool canMove;
     private Vector2 movement;
 
     // Start is called before the first frame update
@@ -51,5 +51,10 @@ public class PlayerMovement : MonoBehaviour
     public void ResumeMovement()
     {
         canMove = true;
+    }
+
+    public bool CurrentCharacter()
+    {
+        return canMove;
     }
 }
