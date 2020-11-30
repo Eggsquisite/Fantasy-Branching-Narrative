@@ -10,7 +10,7 @@ public class BeginDialog : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        if (dialog == null) dialogExhausted = true;
     }
 
     // Update is called once per frame
@@ -23,7 +23,7 @@ public class BeginDialog : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("In range with " + collision.name);
-        if (collision.GetComponent<PlayerMovement>().CurrentCharacter())
+        if (collision.tag == "Character" && collision.GetComponent<PlayerMovement>().CurrentCharacter())
             inRange = true;
         
     }
@@ -36,7 +36,6 @@ public class BeginDialog : MonoBehaviour
     private void StartDialog()
     {
         dialog.gameObject.SetActive(true);
-        Debug.Log("Starting dialog");
         dialogExhausted = true;
     }
 

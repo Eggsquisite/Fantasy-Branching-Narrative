@@ -29,6 +29,8 @@ public class PlayerMovement : MonoBehaviour
             MovementInput();
             Animate();
         }
+
+        AdjustRigidbody();
     }
 
     void FixedUpdate()
@@ -58,10 +60,18 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("moving", false);
     }
 
+    private void AdjustRigidbody()
+    {
+        if (movement == Vector2.zero)
+            rb.bodyType = RigidbodyType2D.Kinematic;
+        else
+            rb.bodyType = RigidbodyType2D.Dynamic;
+    }
+
     private void Movement()
     {
-        //rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
-        rb.velocity = new Vector2(movement.x * moveSpeed * Time.fixedDeltaTime, movement.y * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        //rb.velocity = new Vector2(movement.x * moveSpeed * Time.fixedDeltaTime, movement.y * moveSpeed * Time.fixedDeltaTime);
     }
 
     public void StopMovement()
