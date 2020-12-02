@@ -10,11 +10,6 @@ public class CameraFollow : MonoBehaviour
 
     private Vector3 velocity = Vector2.zero;
 
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void LateUpdate()
     {

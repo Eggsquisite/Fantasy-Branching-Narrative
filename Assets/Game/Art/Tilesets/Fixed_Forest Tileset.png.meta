@@ -1,0 +1,5782 @@
+fileFormatVersion: 2
+guid: cbe5dd1d0deda544b86e9d6392e6627b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6667854467246491929
+    second: Fixed_Forest Tileset_0
+  - first:
+      213: -8767808843670222194
+    second: Fixed_Forest Tileset_1
+  - first:
+      213: 2269909429817306887
+    second: Fixed_Forest Tileset_2
+  - first:
+      213: 33300617129044530
+    second: Fixed_Forest Tileset_3
+  - first:
+      213: -4452713493497230037
+    second: Fixed_Forest Tileset_4
+  - first:
+      213: 2185334736931382573
+    second: Fixed_Forest Tileset_5
+  - first:
+      213: -293979938606017703
+    second: Fixed_Forest Tileset_6
+  - first:
+      213: -6283183020934980394
+    second: Fixed_Forest Tileset_7
+  - first:
+      213: 53281713775931408
+    second: Fixed_Forest Tileset_8
+  - first:
+      213: 809352865719277478
+    second: Fixed_Forest Tileset_9
+  - first:
+      213: -4985877579356174380
+    second: Fixed_Forest Tileset_10
+  - first:
+      213: 708658388381599171
+    second: Fixed_Forest Tileset_11
+  - first:
+      213: -2092502173117702763
+    second: Fixed_Forest Tileset_12
+  - first:
+      213: -4603576250027173846
+    second: Fixed_Forest Tileset_13
+  - first:
+      213: 8357234434785297788
+    second: Fixed_Forest Tileset_14
+  - first:
+      213: 6109828461036669678
+    second: Fixed_Forest Tileset_15
+  - first:
+      213: -1456924666740457274
+    second: Fixed_Forest Tileset_16
+  - first:
+      213: 5519154940180753474
+    second: Fixed_Forest Tileset_17
+  - first:
+      213: -2581295898011821124
+    second: Fixed_Forest Tileset_18
+  - first:
+      213: -1125771941702461613
+    second: Fixed_Forest Tileset_19
+  - first:
+      213: -319333559574851841
+    second: Fixed_Forest Tileset_20
+  - first:
+      213: 1691895053007750667
+    second: Fixed_Forest Tileset_21
+  - first:
+      213: 436882626171578073
+    second: Fixed_Forest Tileset_22
+  - first:
+      213: -172505045397384650
+    second: Fixed_Forest Tileset_23
+  - first:
+      213: 5799576464947024145
+    second: Fixed_Forest Tileset_24
+  - first:
+      213: 3535815500414954848
+    second: Fixed_Forest Tileset_25
+  - first:
+      213: -4933574896343547660
+    second: Fixed_Forest Tileset_26
+  - first:
+      213: -8397152219593972815
+    second: Fixed_Forest Tileset_27
+  - first:
+      213: 9108939735051332885
+    second: Fixed_Forest Tileset_28
+  - first:
+      213: -8063606649041558346
+    second: Fixed_Forest Tileset_29
+  - first:
+      213: -6997077950338219686
+    second: Fixed_Forest Tileset_30
+  - first:
+      213: -6791960820440568969
+    second: Fixed_Forest Tileset_31
+  - first:
+      213: -344178598437084830
+    second: Fixed_Forest Tileset_32
+  - first:
+      213: 355843953451871507
+    second: Fixed_Forest Tileset_33
+  - first:
+      213: -8407275239613734007
+    second: Fixed_Forest Tileset_34
+  - first:
+      213: 4678343936969761390
+    second: Fixed_Forest Tileset_35
+  - first:
+      213: 8344558353273009518
+    second: Fixed_Forest Tileset_36
+  - first:
+      213: 3555812806426635866
+    second: Fixed_Forest Tileset_37
+  - first:
+      213: 6705908765127413452
+    second: Fixed_Forest Tileset_38
+  - first:
+      213: 3550447928967877177
+    second: Fixed_Forest Tileset_39
+  - first:
+      213: 1029772573226327861
+    second: Fixed_Forest Tileset_40
+  - first:
+      213: 5879851583694210343
+    second: Fixed_Forest Tileset_41
+  - first:
+      213: 4791964028415732945
+    second: Fixed_Forest Tileset_42
+  - first:
+      213: -4498124220516426015
+    second: Fixed_Forest Tileset_43
+  - first:
+      213: 7602417107419224425
+    second: Fixed_Forest Tileset_44
+  - first:
+      213: 3689493225900954696
+    second: Fixed_Forest Tileset_45
+  - first:
+      213: -2537285694743480775
+    second: Fixed_Forest Tileset_46
+  - first:
+      213: 4391911538668572853
+    second: Fixed_Forest Tileset_47
+  - first:
+      213: 564743855051989726
+    second: Fixed_Forest Tileset_48
+  - first:
+      213: 324628914366306301
+    second: Fixed_Forest Tileset_49
+  - first:
+      213: 3494361473567904294
+    second: Fixed_Forest Tileset_50
+  - first:
+      213: 1617600066070474301
+    second: Fixed_Forest Tileset_51
+  - first:
+      213: -7560499130714204116
+    second: Fixed_Forest Tileset_52
+  - first:
+      213: 7592330006047423548
+    second: Fixed_Forest Tileset_53
+  - first:
+      213: 7033581228045422875
+    second: Fixed_Forest Tileset_54
+  - first:
+      213: 4143566623588130982
+    second: Fixed_Forest Tileset_55
+  - first:
+      213: -976067669764811336
+    second: Fixed_Forest Tileset_56
+  - first:
+      213: -328126825439199065
+    second: Fixed_Forest Tileset_57
+  - first:
+      213: 6126400192065679394
+    second: Fixed_Forest Tileset_58
+  - first:
+      213: -7493341601218905635
+    second: Fixed_Forest Tileset_59
+  - first:
+      213: -8723017993741595173
+    second: Fixed_Forest Tileset_60
+  - first:
+      213: -7107006259893674259
+    second: Fixed_Forest Tileset_61
+  - first:
+      213: -2286481581461843764
+    second: Fixed_Forest Tileset_62
+  - first:
+      213: -8124152427345930098
+    second: Fixed_Forest Tileset_63
+  - first:
+      213: 4254888345219243863
+    second: Fixed_Forest Tileset_64
+  - first:
+      213: 6177993390486354406
+    second: Fixed_Forest Tileset_65
+  - first:
+      213: 4488380786472193966
+    second: Fixed_Forest Tileset_66
+  - first:
+      213: -4913759155875149745
+    second: Fixed_Forest Tileset_67
+  - first:
+      213: 260340853483028157
+    second: Fixed_Forest Tileset_68
+  - first:
+      213: -9120555636530374330
+    second: Fixed_Forest Tileset_69
+  - first:
+      213: -4527309059137856401
+    second: Fixed_Forest Tileset_70
+  - first:
+      213: -2601540142769111953
+    second: Fixed_Forest Tileset_71
+  - first:
+      213: 6763346286919312165
+    second: Fixed_Forest Tileset_72
+  - first:
+      213: -4558383499391752277
+    second: Fixed_Forest Tileset_73
+  - first:
+      213: -676824046860594386
+    second: Fixed_Forest Tileset_74
+  - first:
+      213: 2155838790337686658
+    second: Fixed_Forest Tileset_75
+  - first:
+      213: -7659220744090446128
+    second: Fixed_Forest Tileset_76
+  - first:
+      213: -4423590221663421171
+    second: Fixed_Forest Tileset_77
+  - first:
+      213: -1300006925095045698
+    second: Fixed_Forest Tileset_78
+  - first:
+      213: 940071450530785354
+    second: Fixed_Forest Tileset_79
+  - first:
+      213: -4660181233927271180
+    second: Fixed_Forest Tileset_80
+  - first:
+      213: -5290742094503760687
+    second: Fixed_Forest Tileset_81
+  - first:
+      213: 5809129690981977907
+    second: Fixed_Forest Tileset_82
+  - first:
+      213: 1042416618443999344
+    second: Fixed_Forest Tileset_83
+  - first:
+      213: 3887672304484564237
+    second: Fixed_Forest Tileset_84
+  - first:
+      213: -719077101244350492
+    second: Fixed_Forest Tileset_85
+  - first:
+      213: -4243307467721764419
+    second: Fixed_Forest Tileset_86
+  - first:
+      213: 8642130792448575376
+    second: Fixed_Forest Tileset_87
+  - first:
+      213: 8024301206815002920
+    second: Fixed_Forest Tileset_88
+  - first:
+      213: 8753423602432087267
+    second: Fixed_Forest Tileset_89
+  - first:
+      213: 8997837352494324342
+    second: Fixed_Forest Tileset_90
+  - first:
+      213: 3981960656785699672
+    second: Fixed_Forest Tileset_91
+  - first:
+      213: 360293422548325051
+    second: Fixed_Forest Tileset_92
+  - first:
+      213: -4362392568478285288
+    second: Fixed_Forest Tileset_93
+  - first:
+      213: 9049340419997327373
+    second: Fixed_Forest Tileset_94
+  - first:
+      213: 1904217508616616496
+    second: Fixed_Forest Tileset_95
+  - first:
+      213: 5796808710101657666
+    second: Fixed_Forest Tileset_96
+  - first:
+      213: 2195117350460114943
+    second: Fixed_Forest Tileset_97
+  - first:
+      213: 8424667545485263980
+    second: Fixed_Forest Tileset_98
+  - first:
+      213: -9010005369853719787
+    second: Fixed_Forest Tileset_99
+  - first:
+      213: 1984321891582626992
+    second: Fixed_Forest Tileset_100
+  - first:
+      213: -5072347026253146154
+    second: Fixed_Forest Tileset_101
+  - first:
+      213: 2148385381270623486
+    second: Fixed_Forest Tileset_102
+  - first:
+      213: 2303864057647925343
+    second: Fixed_Forest Tileset_103
+  - first:
+      213: -15853611121579424
+    second: Fixed_Forest Tileset_104
+  - first:
+      213: -6968459552337377955
+    second: Fixed_Forest Tileset_105
+  - first:
+      213: -6456295181064945796
+    second: Fixed_Forest Tileset_106
+  - first:
+      213: 4293541059248020590
+    second: Fixed_Forest Tileset_107
+  - first:
+      213: 5076439853346715921
+    second: Fixed_Forest Tileset_108
+  - first:
+      213: 6133773776720764977
+    second: Fixed_Forest Tileset_109
+  - first:
+      213: 6746725088392469778
+    second: Fixed_Forest Tileset_110
+  - first:
+      213: 5852448092302170644
+    second: Fixed_Forest Tileset_111
+  - first:
+      213: -5242124705090118244
+    second: Fixed_Forest Tileset_112
+  - first:
+      213: 5711647773667622294
+    second: Fixed_Forest Tileset_113
+  - first:
+      213: 3570236900199233202
+    second: Fixed_Forest Tileset_114
+  - first:
+      213: -2591974263047074641
+    second: Fixed_Forest Tileset_115
+  - first:
+      213: 686031240373847119
+    second: Fixed_Forest Tileset_116
+  - first:
+      213: -3419343011659077859
+    second: Fixed_Forest Tileset_117
+  - first:
+      213: -2458038108732313530
+    second: Fixed_Forest Tileset_118
+  - first:
+      213: -7509000297548754165
+    second: Fixed_Forest Tileset_119
+  - first:
+      213: -5305091830631179740
+    second: Fixed_Forest Tileset_120
+  - first:
+      213: 8021367327094457875
+    second: Fixed_Forest Tileset_121
+  - first:
+      213: -4480800228328665526
+    second: Fixed_Forest Tileset_122
+  - first:
+      213: 8124458009702449689
+    second: Fixed_Forest Tileset_123
+  - first:
+      213: -3199068116055303621
+    second: Fixed_Forest Tileset_124
+  - first:
+      213: -8430308111479438768
+    second: Fixed_Forest Tileset_125
+  - first:
+      213: 3214659906641417709
+    second: Fixed_Forest Tileset_126
+  - first:
+      213: 3128874632005458628
+    second: Fixed_Forest Tileset_127
+  - first:
+      213: 3926386495310919271
+    second: Fixed_Forest Tileset_128
+  - first:
+      213: 1511893253105571824
+    second: Fixed_Forest Tileset_129
+  - first:
+      213: 6056202198207263673
+    second: Fixed_Forest Tileset_130
+  - first:
+      213: 3032825539512718722
+    second: Fixed_Forest Tileset_131
+  - first:
+      213: 3281133162473545939
+    second: Fixed_Forest Tileset_132
+  - first:
+      213: -1716756156109264013
+    second: Fixed_Forest Tileset_133
+  - first:
+      213: -5757100233776050755
+    second: Fixed_Forest Tileset_134
+  - first:
+      213: -7377979989682150056
+    second: Fixed_Forest Tileset_135
+  - first:
+      213: 5447613458422255526
+    second: Fixed_Forest Tileset_136
+  - first:
+      213: 4614573484339091319
+    second: Fixed_Forest Tileset_137
+  - first:
+      213: -1548302673953715087
+    second: Fixed_Forest Tileset_138
+  - first:
+      213: -1484305005388040990
+    second: Fixed_Forest Tileset_139
+  - first:
+      213: 5726414622281231338
+    second: Fixed_Forest Tileset_140
+  - first:
+      213: 5463033470333547016
+    second: Fixed_Forest Tileset_141
+  - first:
+      213: -3562880972872272447
+    second: Fixed_Forest Tileset_142
+  - first:
+      213: 2806385662284291378
+    second: Fixed_Forest Tileset_143
+  - first:
+      213: -8446202933825157219
+    second: Fixed_Forest Tileset_144
+  - first:
+      213: -3295408172130223380
+    second: Fixed_Forest Tileset_145
+  - first:
+      213: 4691047636724837071
+    second: Fixed_Forest Tileset_146
+  - first:
+      213: 8423765550166896780
+    second: Fixed_Forest Tileset_147
+  - first:
+      213: 5654414896986853867
+    second: Fixed_Forest Tileset_148
+  - first:
+      213: 6449977073302653995
+    second: Fixed_Forest Tileset_149
+  - first:
+      213: -7140932909089249514
+    second: Fixed_Forest Tileset_150
+  - first:
+      213: 5595660086806056207
+    second: Fixed_Forest Tileset_151
+  - first:
+      213: 3400025338274894070
+    second: Fixed_Forest Tileset_152
+  - first:
+      213: 7275014218433062894
+    second: Fixed_Forest Tileset_153
+  - first:
+      213: 7100881672957758491
+    second: Fixed_Forest Tileset_154
+  - first:
+      213: -1763369630464272517
+    second: Fixed_Forest Tileset_155
+  - first:
+      213: -1149434557350259284
+    second: Fixed_Forest Tileset_156
+  - first:
+      213: 1909013892005577525
+    second: Fixed_Forest Tileset_157
+  - first:
+      213: -2028671242594402065
+    second: Fixed_Forest Tileset_158
+  - first:
+      213: 1963478384692101927
+    second: Fixed_Forest Tileset_159
+  - first:
+      213: -970634646148866662
+    second: Fixed_Forest Tileset_160
+  - first:
+      213: 1331904599373177713
+    second: Fixed_Forest Tileset_161
+  - first:
+      213: 4835242459938817531
+    second: Fixed_Forest Tileset_162
+  - first:
+      213: 2067568513225844830
+    second: Fixed_Forest Tileset_163
+  - first:
+      213: 5597672199652926861
+    second: Fixed_Forest Tileset_164
+  - first:
+      213: 1651354295089560628
+    second: Fixed_Forest Tileset_165
+  - first:
+      213: -3438704808240793216
+    second: Fixed_Forest Tileset_166
+  - first:
+      213: -2725696162277383878
+    second: Fixed_Forest Tileset_167
+  - first:
+      213: 5754584504441647122
+    second: Fixed_Forest Tileset_168
+  - first:
+      213: 6558226714910577061
+    second: Fixed_Forest Tileset_169
+  - first:
+      213: 7920170283023040400
+    second: Fixed_Forest Tileset_170
+  - first:
+      213: 6776502730022872096
+    second: Fixed_Forest Tileset_171
+  - first:
+      213: 2928862979592108190
+    second: Fixed_Forest Tileset_172
+  - first:
+      213: 8015230919273905622
+    second: Fixed_Forest Tileset_173
+  - first:
+      213: -5562020133099837976
+    second: Fixed_Forest Tileset_174
+  - first:
+      213: -5258265925263977607
+    second: Fixed_Forest Tileset_175
+  - first:
+      213: 7050599257432893507
+    second: Fixed_Forest Tileset_176
+  - first:
+      213: 8930512934464399486
+    second: Fixed_Forest Tileset_177
+  - first:
+      213: -3076509605966620297
+    second: Fixed_Forest Tileset_178
+  - first:
+      213: -764093570133913510
+    second: Fixed_Forest Tileset_179
+  - first:
+      213: 1219625286992549344
+    second: Fixed_Forest Tileset_180
+  - first:
+      213: 4778692755074299222
+    second: Fixed_Forest Tileset_181
+  - first:
+      213: -1070898794864749144
+    second: Fixed_Forest Tileset_182
+  - first:
+      213: -3331855017752918133
+    second: Fixed_Forest Tileset_183
+  - first:
+      213: -6794553764582437800
+    second: Fixed_Forest Tileset_184
+  - first:
+      213: -1502548494823397763
+    second: Fixed_Forest Tileset_185
+  - first:
+      213: -6856230713642543792
+    second: Fixed_Forest Tileset_186
+  - first:
+      213: -6003430527128160596
+    second: Fixed_Forest Tileset_187
+  - first:
+      213: -4888684503737717831
+    second: Fixed_Forest Tileset_188
+  - first:
+      213: -9177663713139556339
+    second: Fixed_Forest Tileset_189
+  - first:
+      213: 6075669839146964114
+    second: Fixed_Forest Tileset_190
+  - first:
+      213: 2517518968354850192
+    second: Fixed_Forest Tileset_191
+  - first:
+      213: 9046289918009138092
+    second: Fixed_Forest Tileset_192
+  - first:
+      213: 6737537799798876730
+    second: Fixed_Forest Tileset_193
+  - first:
+      213: -6394414671622927916
+    second: Fixed_Forest Tileset_194
+  - first:
+      213: 4953518902316197246
+    second: Fixed_Forest Tileset_195
+  - first:
+      213: -8322614937769270340
+    second: Fixed_Forest Tileset_196
+  - first:
+      213: 222543790957696369
+    second: Fixed_Forest Tileset_197
+  - first:
+      213: -2326013246814560488
+    second: Fixed_Forest Tileset_198
+  - first:
+      213: -2466726872925652403
+    second: Fixed_Forest Tileset_199
+  - first:
+      213: 7736095647068543950
+    second: Fixed_Forest Tileset_200
+  - first:
+      213: -1037238582671406166
+    second: Fixed_Forest Tileset_201
+  - first:
+      213: 8842523895181840582
+    second: Fixed_Forest Tileset_202
+  - first:
+      213: -5124595753230012100
+    second: Fixed_Forest Tileset_203
+  - first:
+      213: 2343381844521407559
+    second: Fixed_Forest Tileset_204
+  - first:
+      213: 3759850782602211950
+    second: Fixed_Forest Tileset_205
+  - first:
+      213: -6412691128461528656
+    second: Fixed_Forest Tileset_206
+  - first:
+      213: -5054728316860268598
+    second: Fixed_Forest Tileset_207
+  - first:
+      213: 5930434898219962462
+    second: Fixed_Forest Tileset_208
+  - first:
+      213: -7164544659584183418
+    second: Fixed_Forest Tileset_209
+  - first:
+      213: -5301913224134277028
+    second: Fixed_Forest Tileset_210
+  - first:
+      213: -8510646608081172353
+    second: Fixed_Forest Tileset_211
+  - first:
+      213: -8187702203041367793
+    second: Fixed_Forest Tileset_212
+  - first:
+      213: 1841382903227768565
+    second: Fixed_Forest Tileset_213
+  - first:
+      213: 9137609527372495590
+    second: Fixed_Forest Tileset_214
+  - first:
+      213: -4929546752747520707
+    second: Fixed_Forest Tileset_215
+  - first:
+      213: 742332435837726751
+    second: Fixed_Forest Tileset_216
+  - first:
+      213: 7689594870345732587
+    second: Fixed_Forest Tileset_217
+  - first:
+      213: 1208303857239530439
+    second: Fixed_Forest Tileset_218
+  - first:
+      213: -761978583125589503
+    second: Fixed_Forest Tileset_219
+  - first:
+      213: -6762787975279478359
+    second: Fixed_Forest Tileset_220
+  - first:
+      213: -6347503080798866710
+    second: Fixed_Forest Tileset_221
+  - first:
+      213: -8584853261778213090
+    second: Fixed_Forest Tileset_222
+  - first:
+      213: 7403735576348272676
+    second: Fixed_Forest Tileset_223
+  - first:
+      213: -4337745851597600639
+    second: Fixed_Forest Tileset_224
+  - first:
+      213: 7603788021588737050
+    second: Fixed_Forest Tileset_225
+  - first:
+      213: 3788383675393447227
+    second: Fixed_Forest Tileset_226
+  - first:
+      213: 1819904028057024895
+    second: Fixed_Forest Tileset_227
+  - first:
+      213: -2325219416420376926
+    second: Fixed_Forest Tileset_228
+  - first:
+      213: 3433271596828699702
+    second: Fixed_Forest Tileset_229
+  - first:
+      213: 2713616287431885980
+    second: Fixed_Forest Tileset_230
+  - first:
+      213: 379057781620975964
+    second: Fixed_Forest Tileset_231
+  - first:
+      213: 7933065814602055072
+    second: Fixed_Forest Tileset_232
+  - first:
+      213: -1361114658947907354
+    second: Fixed_Forest Tileset_233
+  - first:
+      213: -4339299837723177427
+    second: Fixed_Forest Tileset_234
+  - first:
+      213: -6257978470275082967
+    second: Fixed_Forest Tileset_235
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9198a366f4af88c50800000000000000
+      internalID: 6667854467246491929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a028e7f4c725680800000000000000
+      internalID: -8767808843670222194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe1949996508f10800000000000000
+      internalID: 2269909429817306887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a27ce1cbe467000800000000000000
+      internalID: 33300617129044530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d428d4ba8c432c0800000000000000
+      internalID: -4452713493497230037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ed166d5ed35e10800000000000000
+      internalID: 2185334736931382573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9531c4cadc29bebf0800000000000000
+      internalID: -293979938606017703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc976a0556adc8a0800000000000000
+      internalID: -6283183020934980394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01073a6bf6b4db000800000000000000
+      internalID: 53281713775931408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7542ba4266b3b00800000000000000
+      internalID: 809352865719277478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d704e402ca9ecab0800000000000000
+      internalID: -4985877579356174380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50692bc09a5d900800000000000000
+      internalID: 708658388381599171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d169f2c50f5f2e0800000000000000
+      internalID: -2092502173117702763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2894b89acfcc10c0800000000000000
+      internalID: -4603576250027173846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754a0e907cdaf370800000000000000
+      internalID: 8357234434785297788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea89a23d987ac450800000000000000
+      internalID: 6109828461036669678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c04e661cb6f7cbe0800000000000000
+      internalID: -1456924666740457274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce0d52d2af79c40800000000000000
+      internalID: 5519154940180753474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb15da9e056d2cd0800000000000000
+      internalID: -2581295898011821124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 513
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35719b432647060f0800000000000000
+      internalID: -1125771941702461613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe0ea8c1df719bf0800000000000000
+      internalID: -319333559574851841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0684cf2691da7710800000000000000
+      internalID: 1691895053007750667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d62f7d0f6e101600800000000000000
+      internalID: 436882626171578073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632502f33932b9df0800000000000000
+      internalID: -172505045397384650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11112e0411c3c7050800000000000000
+      internalID: 5799576464947024145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dad8dc67db11130800000000000000
+      internalID: 3535815500414954848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f088ae55cb688bb0800000000000000
+      internalID: -4933574896343547660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e73adb82577b80800000000000000
+      internalID: -8397152219593972815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dec248d64796e70800000000000000
+      internalID: 9108939735051332885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4666bb970581090800000000000000
+      internalID: -8063606649041558346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514f502da265ee90800000000000000
+      internalID: -6997077950338219686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be4418e9b1eb1a0800000000000000
+      internalID: -6791960820440568969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261add4636b393bf0800000000000000
+      internalID: -344178598437084830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d28f8b03630f400800000000000000
+      internalID: 355843953451871507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e2e596bb535b80800000000000000
+      internalID: -8407275239613734007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626f241601dce040800000000000000
+      internalID: 4678343936969761390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e653b566c93ddc370800000000000000
+      internalID: 8344558353273009518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e28de68e8c85130800000000000000
+      internalID: 3555812806426635866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce09911e7c201d50800000000000000
+      internalID: 6705908765127413452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d6af8499b54130800000000000000
+      internalID: 3550447928967877177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f589a03bc7a4e00800000000000000
+      internalID: 1029772573226327861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258c12dcdd699150800000000000000
+      internalID: 5879851583694210343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc6b2a15e9708240800000000000000
+      internalID: 4791964028415732945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee99808ad37391c0800000000000000
+      internalID: -4498124220516426015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96953127416318960800000000000000
+      internalID: 7602417107419224425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844590b8a86b33330800000000000000
+      internalID: 3689493225900954696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936722f8a10c9ccd0800000000000000
+      internalID: -2537285694743480775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0974b664433fc30800000000000000
+      internalID: 4391911538668572853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed265754b8f56d700800000000000000
+      internalID: 564743855051989726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7df941740518400800000000000000
+      internalID: 324628914366306301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62253dc0f377e7030800000000000000
+      internalID: 3494361473567904294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e67ce80bed27610800000000000000
+      internalID: 1617600066070474301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28512d0916b31790800000000000000
+      internalID: -7560499130714204116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cfef32aef5d5960800000000000000
+      internalID: 7592330006047423548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d0848cdc4c9160800000000000000
+      internalID: 7033581228045422875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a22ef3e7e08930800000000000000
+      internalID: 4143566623588130982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5dce230af4472f0800000000000000
+      internalID: -976067669764811336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a08b680462427bf0800000000000000
+      internalID: -328126825439199065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b5fff388550550800000000000000
+      internalID: 6126400192065679394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b0bed38d420890800000000000000
+      internalID: -7493341601218905635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd01b9e95d91f680800000000000000
+      internalID: -8723017993741595173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee5f8e0677de5d90800000000000000
+      internalID: -7107006259893674259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc05e7fad19c440e0800000000000000
+      internalID: -2286481581461843764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e881be23966314f80800000000000000
+      internalID: -8124152427345930098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1eb718666c0b30800000000000000
+      internalID: 4254888345219243863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e976a89144acb550800000000000000
+      internalID: 6177993390486354406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf0d5a7b8ee94e30800000000000000
+      internalID: 4488380786472193966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480d3af412decbb0800000000000000
+      internalID: -4913759155875149745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb06c70aaec9300800000000000000
+      internalID: 260340853483028157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6499b6aa8f64d6180800000000000000
+      internalID: -9120555636530374330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1eadb564cb21c0800000000000000
+      internalID: -4527309059137856401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf351160975ebd0800000000000000
+      internalID: -2601540142769111953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52368cc3d9b3cdd50800000000000000
+      internalID: 6763346286919312165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7a0c0db5e5db0c0800000000000000
+      internalID: -4558383499391752277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239e678d107b96f0800000000000000
+      internalID: -676824046860594386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce51b25f31bed10800000000000000
+      internalID: 2155838790337686658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d69f24405bf4b590800000000000000
+      internalID: -7659220744090446128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d3cdd61204c92c0800000000000000
+      internalID: -4423590221663421171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb57920e69275fde0800000000000000
+      internalID: -1300006925095045698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48af58e00ecb0d00800000000000000
+      internalID: 940071450530785354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcc2d2cbd5b35fb0800000000000000
+      internalID: -4660181233927271180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca5eab8128396b0800000000000000
+      internalID: -5290742094503760687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fc7250dac2e9050800000000000000
+      internalID: 5809129690981977907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078815a3468677e00800000000000000
+      internalID: 1042416618443999344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d3de7fc59c3f530800000000000000
+      internalID: 3887672304484564237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef763eaf235506f0800000000000000
+      internalID: -719077101244350492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db19ea1175ebc15c0800000000000000
+      internalID: -4243307467721764419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097cc52fa240fe770800000000000000
+      internalID: 8642130792448575376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82152fade6b0c5f60800000000000000
+      internalID: 8024301206815002920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41c7783686a7970800000000000000
+      internalID: 8753423602432087267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5a26466dbedc70800000000000000
+      internalID: 8997837352494324342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fa49be14c24730800000000000000
+      internalID: 3981960656785699672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb217e975f4000500800000000000000
+      internalID: 360293422548325051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8124c09621ba573c0800000000000000
+      internalID: -4362392568478285288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d006681aa27b59d70800000000000000
+      internalID: 9049340419997327373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3c203cb32d6a10800000000000000
+      internalID: 1904217508616616496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ef7c1fc6627050800000000000000
+      internalID: 5796808710101657666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7c87a999f967e10800000000000000
+      internalID: 2195117350460114943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64496f2f7e6ae470800000000000000
+      internalID: 8424667545485263980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc1896ad706f280800000000000000
+      internalID: -9010005369853719787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc40db3f3ab98b10800000000000000
+      internalID: 1984321891582626992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d71caa01476b99b0800000000000000
+      internalID: -5072347026253146154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef417432f1990dd10800000000000000
+      internalID: 2148385381270623486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5805ee6728f8ff10800000000000000
+      internalID: 2303864057647925343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ae0b4893da7cff0800000000000000
+      internalID: -15853611121579424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c04725fe0b4f90800000000000000
+      internalID: -6968459552337377955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fbe8f5db1a666a0800000000000000
+      internalID: -6456295181064945796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c580168d8b59b30800000000000000
+      internalID: 4293541059248020590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119fd568623237640800000000000000
+      internalID: 5076439853346715921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1302c0670ca8f1550800000000000000
+      internalID: 6133773776720764977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d59d2e8be21ad50800000000000000
+      internalID: 6746725088392469778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a55184882183150800000000000000
+      internalID: 5852448092302170644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dddccca5b3047b0800000000000000
+      internalID: -5242124705090118244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfb977369d34f40800000000000000
+      internalID: 5711647773667622294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6fd587b870c8130800000000000000
+      internalID: 3570236900199233202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faccf100425770cd0800000000000000
+      internalID: -2591974263047074641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44cd4347c5458900800000000000000
+      internalID: 686031240373847119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a8d8b5ad0c80d0800000000000000
+      internalID: -3419343011659077859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64033a40d5b43edd0800000000000000
+      internalID: -2458038108732313530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03dd46830caac790800000000000000
+      internalID: -7509000297548754165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad66e66178066b0800000000000000
+      internalID: -5305091830631179740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c360c51f915f60800000000000000
+      internalID: 8021367327094457875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0bf0ceeff0d1c0800000000000000
+      internalID: -4480800228328665526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91244ecb38fdfb070800000000000000
+      internalID: 8124458009702449689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ade327f70aa93d0800000000000000
+      internalID: -3199068116055303621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0528c243077810b80800000000000000
+      internalID: -8430308111479438768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55d013724cc9c20800000000000000
+      internalID: 3214659906641417709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca9a6b76eefb6b20800000000000000
+      internalID: 3128874632005458628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f5efe6b35d7630800000000000000
+      internalID: 3926386495310919271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7daa147e25bf410800000000000000
+      internalID: 1511893253105571824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b37518efc3fb0450800000000000000
+      internalID: 6056202198207263673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285536472c2c61a20800000000000000
+      internalID: 3032825539512718722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06df12a3de88d20800000000000000
+      internalID: 3281133162473545939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b642d2f5bdc28e0800000000000000
+      internalID: -1716756156109264013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc57df6dbaa10b0800000000000000
+      internalID: -5757100233776050755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552e032a462c9990800000000000000
+      internalID: -7377979989682150056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af45e6e39fc99b40800000000000000
+      internalID: 5447613458422255526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777d7fb82224a0040800000000000000
+      internalID: 4614573484339091319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c833adbe2538ae0800000000000000
+      internalID: -1548302673953715087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f2873670b66be0800000000000000
+      internalID: -1484305005388040990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebeca552cf487f40800000000000000
+      internalID: 5726414622281231338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802fc433ff790db40800000000000000
+      internalID: 5463033470333547016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c533f2d1aa1e8ec0800000000000000
+      internalID: -3562880972872272447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d543714e842f620800000000000000
+      internalID: 2806385662284291378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d974d7c7e2f09ca80800000000000000
+      internalID: -8446202933825157219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea324e2abb5442d0800000000000000
+      internalID: -3295408172130223380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca6b6ba8f2f91140800000000000000
+      internalID: 4691047636724837071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80fed8032a37e470800000000000000
+      internalID: 8423765550166896780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be11493f364887e40800000000000000
+      internalID: 5654414896986853867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c4e9789fbe28950800000000000000
+      internalID: 6449977073302653995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a6dc7a5f46ec90800000000000000
+      internalID: -7140932909089249514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d08eda337c7ad40800000000000000
+      internalID: 5595660086806056207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d333f7015f2f20800000000000000
+      internalID: 3400025338274894070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76e9113ea06f460800000000000000
+      internalID: 7275014218433062894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c8abc62466b8260800000000000000
+      internalID: 7100881672957758491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771770f9a04787e0800000000000000
+      internalID: -1763369630464272517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5549c2c536c00f0800000000000000
+      internalID: -1149434557350259284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5334748350e2e7a10800000000000000
+      internalID: 1909013892005577525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04c13d046b8d3e0800000000000000
+      internalID: -2028671242594402065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7230bbb103daf3b10800000000000000
+      internalID: 1963478384692101927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d1c959eec9782f0800000000000000
+      internalID: -970634646148866662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e8582d20eb7210800000000000000
+      internalID: 1331904599373177713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf50a8b266b3a1340800000000000000
+      internalID: 4835242459938817531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58eb9bbb9a71bc10800000000000000
+      internalID: 2067568513225844830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d856465353deead40800000000000000
+      internalID: 5597672199652926861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf02d6bf9cae610800000000000000
+      internalID: 1651354295089560628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089316922344740d0800000000000000
+      internalID: -3438704808240793216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31afc128c16c2ad0800000000000000
+      internalID: -2725696162277383878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21036312e146cdf40800000000000000
+      internalID: 5754584504441647122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d8b24370830b50800000000000000
+      internalID: 6558226714910577061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f7138d8e81aed60800000000000000
+      internalID: 7920170283023040400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0246a7a5459fa0e50800000000000000
+      internalID: 6776502730022872096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_172
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983166bc5965a820800000000000000
+      internalID: 2928862979592108190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd7c08fd02db3f60800000000000000
+      internalID: 8015230919273905622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_174
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e56305682cbfc2b0800000000000000
+      internalID: -5562020133099837976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973991e1003e607b0800000000000000
+      internalID: -5258265925263977607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348abe04ba2c8d160800000000000000
+      internalID: 7050599257432893507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7828c0b23e8feb70800000000000000
+      internalID: 8930512934464399486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779584c30da0e45d0800000000000000
+      internalID: -3076509605966620297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_179
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50120142f46565f0800000000000000
+      internalID: -764093570133913510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_180
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e556469cbafce010800000000000000
+      internalID: 1219625286992549344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655bfecfdb3515240800000000000000
+      internalID: 4778692755074299222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a551bd48376321f0800000000000000
+      internalID: -1070898794864749144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b870cb7a38fd2c1d0800000000000000
+      internalID: -3331855017752918133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c45c6a955e4b1a0800000000000000
+      internalID: -6794553764582437800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e044da10e52be0800000000000000
+      internalID: -1502548494823397763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_186
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0559637ed76c9d0a0800000000000000
+      internalID: -6856230713642543792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63acc3eb78faca0800000000000000
+      internalID: -6003430527128160596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bba1cf5857e72cb0800000000000000
+      internalID: -4888684503737717831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00035e6a7362a080800000000000000
+      internalID: -9177663713139556339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d8e6478d115450800000000000000
+      internalID: 6075669839146964114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954910d92600f220800000000000000
+      internalID: 2517518968354850192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd12a40c0ea8d70800000000000000
+      internalID: 9046289918009138092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a67c19eea808d50800000000000000
+      internalID: 6737537799798876730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d98e573cb97247a0800000000000000
+      internalID: -6394414671622927916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_195
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e756db0623f6eb440800000000000000
+      internalID: 4953518902316197246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb327e72fc1208c80800000000000000
+      internalID: -8322614937769270340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17590071662a61300800000000000000
+      internalID: 222543790957696369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_198
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd3c8964758bfd0800000000000000
+      internalID: -2326013246814560488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_199
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a3b557afc64cdd0800000000000000
+      internalID: -2466726872925652403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb57ffd0022c5b60800000000000000
+      internalID: 7736095647068543950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab8a8c210dfa91f0800000000000000
+      internalID: -1037238582671406166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0973a02a4f6ba70800000000000000
+      internalID: 8842523895181840582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_203
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ff3f4057c1e8b0800000000000000
+      internalID: -5124595753230012100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_204
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445ccf2f5d558020800000000000000
+      internalID: 2343381844521407559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_205
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ba71cd5cad2430800000000000000
+      internalID: 3759850782602211950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b170c1056b8107a0800000000000000
+      internalID: -6412691128461528656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_207
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7f6d706ff9d9b0800000000000000
+      internalID: -5054728316860268598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_208
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501bff7e132d4250800000000000000
+      internalID: 5930434898219962462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_209
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683101c679c629c90800000000000000
+      internalID: -7164544659584183418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58c78d6302db66b0800000000000000
+      internalID: -5301913224134277028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_211
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784074500c14e980800000000000000
+      internalID: -8510646608081172353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0939050a307f5e80800000000000000
+      internalID: -8187702203041367793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5e529ef7ed8910800000000000000
+      internalID: 1841382903227768565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea3347b37f4fce70800000000000000
+      internalID: 9137609527372495590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_215
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dbdc2a85bb69bb0800000000000000
+      internalID: -4929546752747520707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10bb57da6b4d4a00800000000000000
+      internalID: 742332435837726751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_217
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be19f991bcde6ba60800000000000000
+      internalID: 7689594870345732587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb1f7fc4f1c4c010800000000000000
+      internalID: 1208303857239530439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_219
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102085a0488ec65f0800000000000000
+      internalID: -761978583125589503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9fe22da20c522a0800000000000000
+      internalID: -6762787975279478359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_221
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2394a149329e7a0800000000000000
+      internalID: -6347503080798866710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172bd261797cd880800000000000000
+      internalID: -8584853261778213090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428292fa74a5fb660800000000000000
+      internalID: 7403735576348272676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c99d512b3dc3c0800000000000000
+      internalID: -4337745851597600639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cba264be4168960800000000000000
+      internalID: 7603788021588737050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3517bc81ea039430800000000000000
+      internalID: 3788383675393447227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7934ad3219914910800000000000000
+      internalID: 1819904028057024895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_228
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae1c63a2492bbfd0800000000000000
+      internalID: -2325219416420376926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_229
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ca96ab35e65af20800000000000000
+      internalID: 3433271596828699702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_230
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948715d2a3b8a520800000000000000
+      internalID: 2713616287431885980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_231
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59add64b0fa24500800000000000000
+      internalID: 379057781620975964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_232
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7623c359e71e60800000000000000
+      internalID: 7933065814602055072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_233
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e045dedd695c1de0800000000000000
+      internalID: -1361114658947907354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_234
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8996c9c5b7c3c0800000000000000
+      internalID: -4339299837723177427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fixed_Forest Tileset_235
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925163bccb13729a0800000000000000
+      internalID: -6257978470275082967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
