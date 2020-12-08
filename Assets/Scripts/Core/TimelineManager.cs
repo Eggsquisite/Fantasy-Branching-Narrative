@@ -14,12 +14,25 @@ public class TimelineManager : MonoBehaviour
     {
         pd = GetComponent<PlayableDirector>();
         //pd.playableAsset = newTimelineAsset;
-        
     }
 
-    // Update is called once per frame
-    void Update()
+    public void PlayTimeline()
     {
-        
+        pd.Play();
+    }
+
+    public void PauseTimeline()
+    {
+        pd.Pause();
+    }
+
+    public void ResumeTimeline()
+    {
+        pd.Resume();
+    }
+
+    public void StopTimeline()
+    {
+        pd.Stop();
     }
 }
